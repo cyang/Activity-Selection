@@ -4,7 +4,7 @@
  * @since       2015-05-11
  */
 
-public abstract class HW6 {
+public abstract class ActivitySelect {
     public static void main(String[] args) {
         testCase();
     }
